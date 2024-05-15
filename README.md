@@ -28,4 +28,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Deployment app:
 
-https://contact-app-opal-sigma.vercel.app/
+https://contact-crud-one.vercel.app/
